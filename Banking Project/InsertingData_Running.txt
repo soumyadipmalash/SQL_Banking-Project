@@ -1,0 +1,347 @@
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 1
+
+
+Enter Name : Goldy Kumar
+Enter address : Medinipur,WB
+Enter phone no : 4567876756
+Enter Email : goldykumar@gmail.com
+Enter Aadhar no : 4567-9876-7689
+Account Type (saving/current) : saving 
+Enter opening balance : 10000
+
+
+ New customer added successfully
+
+
+
+ Press any key to continue....
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 1
+
+
+
+Enter Name : Ananya Bisoi
+Enter address : ananyabisoi@gmail.m   
+Enter phone no : 4567876767
+Enter Email : ananyabisoi@gmail.com
+Enter Aadhar no : 3456-8767-5678
+Account Type (saving/current) : saving 
+Enter opening balance : 4000
+
+
+ New customer added successfully
+
+
+
+ Press any key to continue....
+
+
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 2
+
+
+
+Enter customer Account No : 8
+Modify screen
+
+1. Customer Name
+
+2. Customer Address
+
+3. Customer Phone No
+
+4. Customer Email ID
+What do you want to change ? 2
+Enter New value : Kharagpur,WB
+
+Customer Information modified..
+
+
+
+ Press any key to continue....
+
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 1
+
+
+Enter Name : Mum
+Enter address : Medinipur,WB
+Enter phone no : 8767987623
+Enter Email : Architabisoi@gmail.com
+Enter Aadhar no : 4567-9876-6789
+Account Type (saving/current) : current
+Enter opening balance : 5000
+
+
+ New customer added successfully
+
+
+
+ Press any key to continue....
+
+
+
+
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 1
+
+
+Enter Name : Anjali
+Enter address : Hariyana
+Enter phone no : 3456765676
+Enter Email : anjali@gmail.com
+Enter Aadhar no : 4567-0987-7896
+Account Type (saving/current) : saving 
+Enter opening balance : 7000
+
+
+ New customer added successfully
+
+
+
+ Press any key to continue....
+
+
+
+
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 6
+
+
+
+
+Search Menu
+
+1. Account No
+
+2. Aadhar Card
+
+3. Phone No
+
+4. Email
+
+5. Names
+
+6. Back to Main Menu
+
+
+
+Enter your choice ...: 5
+Enter name : mum
+
+
+
+Search Result for  name : mum
+--------------------------------------------------------------------------------
+9 Mum Medinipur,WB 8767987623 Architabisoi@gmail.com 4567-9876-6789 current active 5000.00
+
+
+
+ Press any key to continue....  
+
+
+
+ 
+
+
+
+
+
+
+
+
+ Main Menu
+
+1. Add Account
+
+2. Modify Account
+
+3. Close Account
+
+4. Activate Account
+
+5. Transaction Menu
+
+6. Search Menu
+
+7. Activate Account
+
+
+Enter your choice : 5
+
+
+
+
+Transaction Menu
+
+1. Deposit Amount
+
+2. Withdraw Amount
+
+3. Back to Main Menu
+
+
+
+Enter your choice ...: 1
+
+
+Enter account No : 5
+Enter amount : 456
+
+Amount deposited
+
+
+
+ Press any key to continue....
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction Menu
+
+1. Deposit Amount
+
+2. Withdraw Amount
+
+3. Back to Main Menu
+
+
+
+Enter your choice ...: 2
+
+
+Enter account No : 7
+Enter amount : 345
+
+Amount withdrawn
+
+
+
+ Press any key to continue....
